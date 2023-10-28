@@ -1,1 +1,3 @@
+touch file
+nano file
 new file - task 6)...
